@@ -1,4 +1,4 @@
-/* This class makes anagramm words from string*/
+package main.java;/* This class makes anagramm words from string*/
 import java.sql.Array;
 import java.util.Arrays;
 

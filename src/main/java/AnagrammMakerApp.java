@@ -1,4 +1,6 @@
-/* This class is main application class */
+package main.java;/* This class is main application class */
+import main.java.AnagrammMaker;
+
 import java.util.Scanner;
 
 public class AnagrammMakerApp {
